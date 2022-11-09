@@ -6,7 +6,7 @@ This is a note taker application that allows you to add and save notes
 
 
 ## Live Website
-[link to live website]()
+[link to live website](https://ryanparketh.github.io/note-taker/)
 
 
 ## Screenshot 
