@@ -1,4 +1,4 @@
-# Note Taker\
+# Note Taker
 
 ## Description
 This is a note taker application that allows you to add and save notes
